@@ -1,0 +1,21 @@
+body {
+    background-color: #f5f5dd;
+}
+#kwadrat1, #kwadrat2, #kwadrat3, #kwadrat4 {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto
+}
+#kwadrat1 {
+    background-color: black;
+}
+#kwadrat2 {
+    background-color: rgba( 0, 0, 0, .75);
+}
+#kwadrat3 {
+    background-color: rgba(0, 0, 0, .50);
+}
+#kwadrat4 {
+    background-color: rgba(0, 0, 0, .25);
+}
